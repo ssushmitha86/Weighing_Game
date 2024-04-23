@@ -11,7 +11,8 @@ This repository contains a Weighing Game take-home coding challenge.
 2.Navigate to the project directory `Weighing_Game` <br><br>
 3.Build the project using Maven  <br><br>
 If this error `java: package org.junit does not exist` is encountered during build,follow the step below picture  <br><br>
-![image](https://github.com/ssushmitha86/Balance-scale-Game-Test/assets/115060706/6741d5b0-8d25-4d5e-aafa-fc8ff16f8aa0)
+![image](https://github.com/ssushmitha86/Weighing_Game/assets/115060706/f5f0a425-f56e-4578-87f4-90562082a410)
+
  <br><br>
 4.Download Chromedriver compatible with your chrome browser  <br><br>
 5.Add Chromedriver path manually in the java file as specified below  <br><br>
@@ -36,4 +37,5 @@ If this error `java: package org.junit does not exist` is encountered during bui
     
 Sample screenshot of passed test cases
 
-![image](https://github.com/ssushmitha86/Balance-scale-Game-Test/assets/115060706/85379507-4716-4b69-80ed-8a916c692798)
+![image](https://github.com/ssushmitha86/Weighing_Game/assets/115060706/6bee2542-72ce-4b17-9a99-1d543bc21219)
+
