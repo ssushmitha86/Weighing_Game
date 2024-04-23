@@ -1,4 +1,4 @@
-# Weighing_Game_Test
+# Weighing_Game_Test_Challenge
 This repository contains a Weighing Game take-home coding challenge.
 
 ## Prerequisites
